@@ -28,7 +28,7 @@ export default function Accordion(props) {
             <div
                 ref={content}
                 style={{ maxHeight: `${setHeight}` }}
-                className="accordion__content"
+                className="accordion--content"
             >
                 <div
                 className="accordion--text"

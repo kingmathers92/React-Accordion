@@ -47,7 +47,6 @@
 .rotate {
   transform: rotate(90deg);
 }
-
 /* Style the accordion content panel. Note: hidden by default */
 .accordion--content {
   background-color: white;
